@@ -1,6 +1,7 @@
 # Vue Crash Course (Task Tracker)
 
-> This is the project from the YouTube crash course
+> This is the project from the YouTube crash course that was remade step by step by Adam.
+> More progress is intended to get much more familiar with the framework, as it's interesting and fun. 
 
 ## Project setup
 
